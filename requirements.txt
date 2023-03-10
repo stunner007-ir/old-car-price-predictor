@@ -1,5 +1,4 @@
-Required Libraries:
 numpy
 pandas
 Gradio
-sci-kit learn
+scikit-learn
