@@ -48,4 +48,4 @@ app = gr.Interface(
     title="Car Price Predictor",
     description="This Model will predict the price of a old Car.")
 
-app.launch(share=True)
+app.launch()
